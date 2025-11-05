@@ -1,0 +1,10 @@
+YOLOv8 accurately detects cow faces for improved precision livestock management. 
+Computer vision accurately detects dairy cow lameness using individualized hoof supporting phase analysis. 
+The CBVD-5 video dataset is introduced for robust recognition of five key cow behaviors. 
+Deep learning and a side-view camera enable real-time cattle lameness detection, improving farm health. 
+Improved deep learning non-destructively tracks beef cattle behaviors for intelligent farming, enhancing accuracy. 
+YOLO-BYTE enhances YOLOv7 and ByteTrack for precise, efficient dairy cow multi-object tracking. 
+Vision-based AI accurately measures multiple cow respiration rates non-contact, detecting heat stress in free-stalls. 
+This review summarizes intelligent perception for cattle lameness and behavior detection. 
+AMTracker, an attention-guided Siamese network, robustly tracks individual dairy goats in real-time farm scenes. 
+Review: Deep learning revolutionizes animal farming, advancing monitoring, health, and management despite data challenges. 
