@@ -17,7 +17,7 @@ def get_gemini_response(prompt_text):
     # Configure the client with your API key
     # It's best practice to set GEMINI_API_KEY as an environment variable
     # e.g., export GEMINI_API_KEY="YOUR_API_KEY" in your terminal
-    api_key = API_KEY
+    api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         return "Error: GEMINI_API_KEY environment variable not set."
         
